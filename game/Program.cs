@@ -111,9 +111,9 @@ public class Game
             Console.WriteLine();
         }
     }
-
     static void Main()
     {
         startGame();
+        Console.WriteLine("Hello it's me");
     }
 }
